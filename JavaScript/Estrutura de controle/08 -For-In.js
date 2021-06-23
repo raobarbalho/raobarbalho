@@ -5,10 +5,10 @@ for (const i in object) {
 }
 
 const Obj = { // for in com objeto
-    nome: 'Léo',
-    idade: '24 anos',
-    peso: '68kg',
-    altura: '1.69 cm'
+    nome: 'Raoni',
+    idade: '29 anos',
+    peso: '110kg',
+    altura: '1.77 cm'
 }
 
 for (const i in Obj) { // forma de printar um Objeto

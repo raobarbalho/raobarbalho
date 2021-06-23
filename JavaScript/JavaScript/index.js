@@ -1,10 +1,10 @@
- let pessoa = {nome:'Leonardo', falar(){ 
+ let pessoa = {nome:'Raoni', falar(){ 
      console.log(`Olá, meu nome é ${this.nome}!`)
     }
 }
  
  let sobreNome = (nome) => {
-  console.log(`${nome} Madeira`)
+  console.log(`${nome} Barbalho`)
 }
 
 const {nome} = pessoa
@@ -14,4 +14,4 @@ const {falar} = pessoa
 console.log(falar)
 pessoa.falar()
 
-sobreNome('Leonardo')
+sobreNome('Raoni')
