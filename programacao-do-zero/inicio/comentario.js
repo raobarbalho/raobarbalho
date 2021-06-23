@@ -10,3 +10,4 @@ console.log('Passo #01'); // mais um exemplo de console.log!
  * linhas!
  */
 console.log('Passo #02');
+console.log("Olá Mundo")
