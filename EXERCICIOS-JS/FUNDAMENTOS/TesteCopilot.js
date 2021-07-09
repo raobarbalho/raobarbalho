@@ -12,3 +12,17 @@ function SubarraySumEqualsZero() {
     alert("Resultado: " + resultado);
     console.log("Resultado: " + resultado);
 }
+// create a function in javascript to find the max value in an array
+function MaxValueInArray() {
+    var array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    var resultado = maxValueInArray(array);
+    alert("Resultado:" + resultado);
+    console.log("Resultado:" + resultado);
+}
+// big o notation time complexity
+function BigONotation() {
+    var array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+    var resultado = bigONotation(array);
+    alert("Resultado: " + resultado);
+    console.log("Resultado: " + resultado);
+}
